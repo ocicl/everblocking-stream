@@ -1,0 +1,10 @@
+* everblocking-stream
+
+A stream that always blocks and never has data available.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/phoe/everblocking-stream.git   |
+| commit  | 4da3bd1  |
+| systems | everblocking-stream |
+|---------+-------------------------------------------|
+
